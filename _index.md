@@ -7,23 +7,30 @@
 | entidad | [Anticipo de comisión MX](entidades/anticipo_comision_mx.md) | comisiones (MX) | 2026-09-30 |
 | entidad | [Base de Finanzas de comisiones CO](entidades/base_finanzas_comisiones_co.md) | comisiones (CO) | 2026-09-30 |
 | entidad | [Beneficiado de comisiones CO](entidades/beneficiado_comisiones_co.md) | comisiones (CO) | 2026-09-30 |
-| entidad | [Broker CO](entidades/broker_co.md) | comisiones (CO) | 2026-09-30 |
+| entidad | [Bolsa de aprobados CO](entidades/bolsa_aprobados_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| entidad | [Broker CO](entidades/broker_co.md) | comisiones (CO); Habicredit_2024.docx (CO, desactualizado - por validar); desactualizado - por validar) (CO) | 2026-09-30 |
 | entidad | [Broker MX](entidades/broker_mx.md) | comisiones (MX) | 2026-09-30 |
 | entidad | [Colaborador comisionable MX](entidades/colaborador_comisionable_mx.md) | comisiones (MX) | 2026-09-30 |
 | entidad | [Comisión interna CO](entidades/comision_interna_co.md) | comisiones (CO) | 2026-09-30 |
 | entidad | [Confirmación de comisión](entidades/confirmacion_comision.md) | comisiones (CO) | 2026-09-30 |
+| entidad | [Creditool](entidades/creditool.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| entidad | [Documento de crédito CO](entidades/documento_credito_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| entidad | [Entidad financiera aliada CO](entidades/entidad_financiera_aliada_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
 | entidad | [Equipo de supervisor de legalización CO](entidades/equipo_supervisor_legalizacion_co.md) | comisiones (CO) | 2026-09-30 |
 | entidad | [Escrituración MX](entidades/escrituracion_mx.md) | comisiones (MX) | 2026-09-30 |
 | entidad | [Esquema de comisiones CO](entidades/esquema_comisiones_co.md) | comisiones (CO) | 2026-09-30 |
 | entidad | [Esquema de comisiones MX](entidades/esquema_comisiones_mx.md) | comisiones (MX) | 2026-09-30 |
 | entidad | [Excepción de comisiones MX](entidades/excepcion_comisiones_mx.md) | comisiones (MX) | 2026-09-30 |
+| entidad | [Funnel de HabiCredit CO](entidades/funnel_habicredit_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
 | entidad | [Indicador de comisiones CO](entidades/indicador_comisiones_co.md) | comisiones (CO) | 2026-09-30 |
+| entidad | [Inmueble Habi (NID) CO](entidades/inmueble_nid_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
 | entidad | [Meta de comisiones CO](entidades/meta_comisiones_co.md) | comisiones (CO) | 2026-09-30 |
 | entidad | [Meta WBR por país](entidades/meta_wbr_pais.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | entidad | [Negocio HabiCredit MX](entidades/negocio_hc_mx.md) | comisiones (MX) | 2026-09-30 |
-| entidad | [Operación de crédito CO](entidades/operacion_credito_co.md) | comisiones (CO) | 2026-09-30 |
+| entidad | [Operación de crédito CO](entidades/operacion_credito_co.md) | comisiones (CO); Habicredit_2024.docx (CO, desactualizado - por validar); desactualizado - por validar) (CO) | 2026-09-30 |
 | entidad | [Posición comisionable CO](entidades/posicion_comisionable_co.md) | comisiones (CO) | 2026-09-30 |
 | entidad | [Referido interno MX](entidades/referido_interno_mx.md) | comisiones (MX) | 2026-09-30 |
+| entidad | [Segmento iBuyer / non-iBuyer CO](entidades/segmento_ibuyer_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
 | entidad | [Serie diaria WBR Liquidez CO](entidades/serie_diaria_wbr_liquidez_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | métrica | [Anticipo EF MX](metricas/anticipo_ef_mx.md) | comisiones (MX) | 2026-09-30 |
 | métrica | [Anticipo Manager MX](metricas/anticipo_mgr_mx.md) | comisiones (MX) | 2026-09-30 |
@@ -45,11 +52,13 @@
 | métrica | [Cumplimiento ANS legalización CO](metricas/cumplimiento_ans_legalizacion_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Cumplimiento de meta WBR Liquidez CO](metricas/cumplimiento_meta_wbr_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | métrica | [Cumplimiento de rotación CO](metricas/cumplimiento_rotacion_co.md) | comisiones (CO) | 2026-09-30 |
+| métrica | [Devolución banco CO](metricas/devolucion_banco_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
 | métrica | [Días de aprobación/sanción CO](metricas/dias_aprobacion_sancion_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Órdenes, ofertas y escrituras CO](metricas/firma_ordenes_ofertas_escrituras_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Liquidación Manager MX](metricas/liquidacion_mgr_mx.md) | comisiones (MX) | 2026-09-30 |
 | métrica | [Liquidación neta EF/AO MX](metricas/liquidacion_neta_ef_ao_mx.md) | comisiones (MX) | 2026-09-30 |
 | métrica | [Monto desembolsado CO](metricas/monto_desembolso_co.md) | comisiones (CO); docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
+| métrica | [NPS CO](metricas/nps_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
 | métrica | [Brokers nuevos CO](metricas/nuevos_brokers_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Pago de comisión CO](metricas/pago_comision_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [% de comisión EF/AO MX](metricas/pct_comision_ef_ao_mx.md) | comisiones (MX) | 2026-09-30 |
@@ -59,7 +68,8 @@
 | métrica | [Radicaciones CO](metricas/radicaciones_co.md) | comisiones (CO); docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | métrica | [Reprocesos KAM CO](metricas/reprocesos_kam_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Rotación Legalización non ibuyer CO](metricas/rotacion_legalizacion_non_ibuyer_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
-| métrica | [Salvamentos CO](metricas/salvamentos_reproceso_creditos_co.md) | comisiones (CO) | 2026-09-30 |
+| métrica | [Salvamentos CO](metricas/salvamentos_reproceso_creditos_co.md) | comisiones (CO); Habicredit_2024.docx (CO, desactualizado - por validar); desactualizado - por validar) (CO) | 2026-09-30 |
+| métrica | [Tasa de aprobación CO](metricas/tasa_aprobacion_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
 | métrica | [Variación WoW / MoM WBR Liquidez CO](metricas/variacion_wow_mom_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | regla | [RN-CO-001 Sin meta no hay pago](reglas/RN-CO-001_sin_meta_no_hay_pago_co.md) | comisiones (CO) | 2026-09-30 |
 | regla | [RN-CO-002 Versionado de cambios por fecha de vigencia](reglas/RN-CO-002_versionado_por_fecha_co.md) | comisiones (CO) | 2026-09-30 |
@@ -88,6 +98,17 @@
 | regla | [RN-CO-025 Meta del mes corrido con curva estacional](reglas/RN-CO-025_meta_mes_corrido_curva_estacional_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | regla | [RN-CO-026 Cumplimiento WBR: flujos contra meta corrida, rotación invertida](reglas/RN-CO-026_cumplimiento_wbr_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | regla | [RN-CO-027 Paridad contra la misma foto](reglas/RN-CO-027_paridad_misma_foto_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
+| regla | [RN-CO-028 Originación = aprobación, no desembolso](reglas/RN-CO-028_originacion_es_aprobacion_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| regla | [RN-CO-029 Comisión bancaria y su distribución](reglas/RN-CO-029_comision_bancaria_compartida_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| regla | [RN-CO-030 Facturación contra informe oficial del banco](reglas/RN-CO-030_facturacion_contra_informe_oficial_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| regla | [RN-CO-031 Viabilidad opcional para radicar](reglas/RN-CO-031_viabilidad_no_obligatoria_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| regla | [RN-CO-032 Incorporación de operaciones desde informes de bancos](reglas/RN-CO-032_operaciones_desde_informes_bancos_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| regla | [RN-CO-033 Devolución de solicitudes (mesa y banco)](reglas/RN-CO-033_devolucion_de_solicitudes_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| regla | [RN-CO-034 Resultado de aprobación: aprobado, menor valor o negado](reglas/RN-CO-034_resultado_de_aprobacion_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| regla | [RN-CO-035 Cambio de condiciones](reglas/RN-CO-035_cambio_de_condiciones_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| regla | [RN-CO-036 Vencimiento de la aprobación](reglas/RN-CO-036_vencimiento_de_aprobacion_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| regla | [RN-CO-037 Legalización abreviada para compra de cartera y retanqueo](reglas/RN-CO-037_compra_cartera_retanqueo_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
+| regla | [RN-CO-038 Variabilidad de la legalización por banco](reglas/RN-CO-038_legalizacion_depende_del_banco_co.md) | Habicredit_2024.docx (CO, desactualizado - por validar) | 2026-09-30 |
 | regla | [RN-MX-001 card_id como llave universal](reglas/RN-MX-001_llave_card_id_mx.md) | comisiones (MX) | 2026-09-30 |
 | regla | [RN-MX-002 Esquema vigente según fecha de aceptación](reglas/RN-MX-002_esquema_por_fecha_aceptacion_mx.md) | comisiones (MX) | 2026-09-30 |
 | regla | [RN-MX-003 Pago en dos eventos](reglas/RN-MX-003_pago_en_dos_eventos_mx.md) | comisiones (MX) | 2026-09-30 |

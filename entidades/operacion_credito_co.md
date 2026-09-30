@@ -7,8 +7,9 @@ domain: "Comisiones"
 market: ["CO"]
 description: >
   Solicitud de crédito que HabiCredit Colombia tramita ante un banco. Recorre las fases de
-  radicación, aprobación o sanción, desembolso y legalización. Es la unidad a partir de la
-  cual se calcula la ejecución de la mayoría de indicadores comisionables.
+  radicación, aprobación o sanción, legalización y desembolso (el desembolso cierra la
+  legalización). Es la unidad a partir de la cual se calcula la ejecución de la mayoría
+  de indicadores comisionables.
 grain: "sin evidencia en el material fuente sobre la llave exacta de main_board (se usan report_id, NID y card_id según la tabla)"
 source_tables:
   - papyrus-delivery-data.habicredit.main_board
@@ -32,7 +33,7 @@ relationships:
 business_rules_ref: ["RN-CO-016", "RN-CO-017"]
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app); Habicredit_2024.docx (fuentes/documentos; desactualizado - por validar)"
 # evidencia: sql/comisiones_co/comisiones_internas_hc.sql:10-50,394,888,987-988
 ```
 
@@ -41,3 +42,4 @@ source_project: "comisiones (fuentes/comisiones_HC-app)"
 
 ## Historial
 - 2026-09-30: creación inicial (extracción piloto del proyecto comisiones).
+- 2026-09-30: corregido el orden de las fases (antes decía "desembolso y legalización"). Ese orden era redacción de la extracción, no evidencia del SQL. Decisión del usuario tras el cruce con Habicredit_2024.docx, que se agrega como fuente adicional (flujo de negocio por validar: ver [funnel_habicredit_co.md](funnel_habicredit_co.md)).

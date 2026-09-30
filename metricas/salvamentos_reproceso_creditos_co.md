@@ -19,7 +19,7 @@ source_tables:
   - papyrus-delivery-data.habicredit.main_board
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app); Habicredit_2024.docx (fuentes/documentos; desactualizado - por validar)"
 known_caveats: >
   Unidad/moneda: operaciones y COP. Paga en pareja: solo la de mayor cumplimiento
   (RN-CO-003). Sin techo (RN-CO-008). Desde 2026-08-01, un traslado de banco cuenta como
@@ -30,3 +30,4 @@ known_caveats: >
 
 ## Historial
 - 2026-09-30: creación inicial (extracción piloto del proyecto comisiones).
+- 2026-09-30: Habicredit_2024.docx agregado como fuente adicional: describe la Mesa de Salvamento (evalúa las negaciones candidatas a reproceso para lograr la aprobación), lo que coincide con esta métrica. Sin cambio de lógica.

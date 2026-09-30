@@ -33,6 +33,7 @@ business_rules_ref: []     # ids de reglas de negocio relacionadas (ver plantill
 owner: ""
 last_reviewed: ""          # YYYY-MM-DD
 source_project: ""         # de qué proyecto/chat salió esta definición
+status: ""                 # "vigente" | "desactualizado - por validar" (ver Notas de uso)
 ```
 
 ---
@@ -59,6 +60,7 @@ source_tables:
 owner: ""
 last_reviewed: ""
 source_project: ""
+status: ""                 # "vigente" | "desactualizado - por validar" (ver Notas de uso)
 known_caveats: ""          # ej. "volatilidad por pipeline lag, discutido con CEO"
 ```
 
@@ -81,6 +83,7 @@ exceptions: ""              # casos que NO aplican esta regla
 owner: ""
 last_reviewed: ""
 source_project: ""
+status: ""                 # "vigente" | "desactualizado - por validar" (ver Notas de uso)
 ```
 
 ---
@@ -101,5 +104,10 @@ Ante la duda, separa primero y fusiona después — es más fácil unir dos defi
 
 - **Una definición no se borra al actualizarse**: si cambia, agrega una línea de historial abajo del bloque YAML en vez de sobreescribir en silencio. Esto importa porque un agente de IA puede necesitar saber "esto cambió el DD/MM, antes era X".
 - **`source_project` es clave**: te permite rastrear de qué proyecto/chat salió cada definición, útil cuando encuentres conflictos entre proyectos y necesites decidir cuál prevalece.
+- **`status` dice si la definición está confirmada**. Tiene dos valores:
+  - `"vigente"`: sale de un proyecto vivo (código, SQL o documentación en uso).
+  - `"desactualizado - por validar"`: sale de material antiguo (documentos, presentaciones) y no se asume vigente sin confirmación del usuario. De ese material no se extraen cifras, montos, porcentajes, metas ni fechas.
+
+  Un archivo sin `status` se lee como `"vigente"` (así quedaron las definiciones extraídas antes de agregar el campo). Si una definición vigente recibe una fuente antigua que coincide, se agrega la fuente en `source_project` y el `status` no cambia.
 - **No copies el chat completo**: extrae solo la definición ya limpia. El chat original queda como referencia, no como contenido de la capa.
 - **Para BigQuery**: una vez estas definiciones estén estables, refleja `description` (de entidad y métrica) también como `description` de tabla/columna en BigQuery — así la semántica queda embebida en el metadata, no solo en un archivo aparte.

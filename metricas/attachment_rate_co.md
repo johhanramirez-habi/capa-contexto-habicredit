@@ -25,3 +25,7 @@ known_caveats: "Unidad: %. No se mide por persona. El PDF cita como fuente el 'T
 
 ## Historial
 - 2026-09-30: creación inicial (extracción piloto del proyecto comisiones).
+- 2026-09-30: conflicto con Habicredit_2024.docx resuelto por el usuario: el documento está desactualizado y prevalece la definición del SQL. La definición no cambió.
+
+## Conflicto resuelto — Habicredit_2024.docx (2026-09-30)
+El documento definía el AR de Carta de Intención sobre *radicación* y segmentado entre iBuyer e Inmobiliaria. **Decisión del usuario:** el documento está desactualizado, así que se usa la definición tal como está en el SQL (cierres / aplicables, valor global). El documento no se agrega como fuente de esta métrica.
