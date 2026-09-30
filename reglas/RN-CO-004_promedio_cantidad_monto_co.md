@@ -19,7 +19,7 @@ sql_reference: |
 exceptions: "para el Gerente Ops la fila monto_desembolso no se anula (solo para Supervisor Legalización)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 ```
 
 ## Notas

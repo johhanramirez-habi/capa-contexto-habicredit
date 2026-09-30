@@ -20,7 +20,7 @@ source_tables:
   - papyrus-master.general_dwh_mx.dim_calendario
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Unidad: %. Aunque se llama "cumplimiento", mide el % FUERA de ANS. El pago es binario:
   1 si la ejecución es menor o igual a la meta; NULL si no (RN-CO-006). El diccionario lo

@@ -30,7 +30,7 @@ relationships:
 business_rules_ref: ["RN-MX-002", "RN-MX-004", "RN-MX-005", "RN-MX-006"]
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: docs/fuentes.md:74; sql/anticipos_mes.plain.sql:8-13,28; CLAUDE.md:26; docs/reglas.md:164-172
 ```
 

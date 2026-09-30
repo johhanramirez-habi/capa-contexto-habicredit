@@ -20,7 +20,7 @@ sql_reference: |
 exceptions: "sin esquema documentado entre 2023-12-12 y 2024-03-31"
 owner: "sin evidencia en el material fuente (aprobación de factura y pago por los buzones listados)"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: docs/reglas.md:493-510
 ```
 

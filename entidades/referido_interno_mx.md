@@ -31,7 +31,7 @@ relationships:
 business_rules_ref: ["RN-MX-012"]
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: config/reglas.yaml:123-146; docs/reglas.md:264-286; data/clean/referidos.csv (encabezado)
 ```
 

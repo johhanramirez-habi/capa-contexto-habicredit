@@ -25,7 +25,7 @@ relationships:
 business_rules_ref: ["RN-CO-007", "RN-CO-008", "RN-CO-009", "RN-CO-010", "RN-CO-011", "RN-CO-012", "RN-CO-013"]
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: sql/comisiones_co/comisiones_internas_hc.sql:1684-2609; comisiones_internas_hc_final.sql:315-617; data/Metas (columna role)
 ```
 

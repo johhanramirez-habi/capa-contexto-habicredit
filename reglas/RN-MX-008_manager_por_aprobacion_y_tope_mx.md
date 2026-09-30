@@ -21,7 +21,7 @@ sql_reference: |
 exceptions: "el tope no se aplica a los anticipos; en el esquema 2023 la bolsa del Manager era de 10.000 MXN (RN-MX-020)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: docs/reglas.md:471-489; src/comisiones/motor.py:40-46,196-241
 ```
 

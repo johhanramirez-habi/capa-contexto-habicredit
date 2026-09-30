@@ -25,7 +25,7 @@ sql_reference: |
 exceptions: "sin evidencia en el material fuente"
 owner: "sin evidencia en el material fuente (aprobación: head de HabiCredit o director)"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: docs/reglas.md:264-286; src/comisiones/motor.py:106-108,171-172
 ```
 

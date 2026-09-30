@@ -16,7 +16,7 @@ sql_reference: |
 exceptions: "administradores configurados pueden ver más allá de lo propio (apps_script/Codigo.gs:45-49)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: services/data_service.py:215-251; api/schemas.py:15-19; apps_script/Codigo.gs:59-67,177-182,300-330
 ```
 

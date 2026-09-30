@@ -29,12 +29,12 @@ capa-contexto-habicredit/
 
 1. **Una sola fuente de verdad por entidad/métrica/regla.** Si dos proyectos usan "broker" o "% devoluciones", existe una sola definición canónica en `entidades/` o `metricas/`. Los proyectos referencian, no duplican.
 
-2. **`_fuentes/` se llena copiando, nunca moviendo.** El material original de cada proyecto (carpetas, CLAUDE.md, chats exportados, código) se copia aquí. Las carpetas de proyecto originales permanecen intactas en su ubicación real — nada se corta ni se relocaliza.
+2. **`fuentes/` contiene los proyectos vivos como submódulos de git.** Cada proyecto con repositorio propio (comisiones, WBR, dbt, etc.) se enlaza como submódulo: la carpeta sigue siendo el proyecto de trabajo, desde donde se hace commit y push a su propio repo, y la capa solo registra el commit que usó. Toda definición indica en `source_project` el commit de la fuente de la que salió. Para volver a extraer tras cambios en un proyecto, se actualiza su puntero (`git add fuentes/<proyecto>`) en el mismo commit que las definiciones. El material sin repositorio (documentos, carpetas sueltas) se copia; nunca se mueve.
 
 3. **Permisos de escritura acotados.** Cualquier agente (Claude Code u otro) que trabaje en tareas de extracción sobre esta carpeta:
-   - Puede **leer** `_fuentes/` y, si es estrictamente necesario, las carpetas de proyecto originales.
+   - Puede **leer** `fuentes/`. Durante una extracción, `fuentes/` es de solo lectura.
    - Solo puede **escribir** dentro de `entidades/`, `metricas/`, `reglas/`, `_index.md`.
-   - Nunca modifica archivos dentro de las carpetas de proyecto originales.
+   - Nunca modifica, commitea ni hace push en los proyectos de `fuentes/` como parte de una extracción. Solo lo hace si el usuario se lo pide explícitamente.
 
 4. **La capa es referencia, no ley.** Si al trabajar en un proyecto existe una discrepancia entre su lógica y una definición global, el comportamiento por defecto es **reportar la discrepancia y preguntar**, no corregir el proyecto automáticamente para que "coincida" con la capa.
 

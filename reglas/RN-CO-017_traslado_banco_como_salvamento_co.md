@@ -16,7 +16,7 @@ sql_reference: |
 exceptions: "no aplica a otros analistas ni al total del supervisor"
 owner: "sin evidencia en el material fuente (acordada con el gerente de radicación)"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 ```
 
 ## Historial

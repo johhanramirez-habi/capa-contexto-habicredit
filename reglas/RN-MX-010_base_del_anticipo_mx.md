@@ -20,7 +20,7 @@ sql_reference: |
 exceptions: "no se sustituye por otro monto cuando falta el del banco"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: docs/reglas.md:337-349; docs/fuentes.md:139-149; src/comisiones/motor.py:116-127
 ```
 

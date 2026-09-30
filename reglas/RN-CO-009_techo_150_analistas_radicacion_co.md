@@ -17,7 +17,7 @@ sql_reference: |
 exceptions: "reproceso_creditos(_monto) de estas posiciones no tiene techo (RN-CO-008)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: PDF 202608 (~1062-1067): "80.0% En adelante al 150%"
 ```
 

@@ -20,7 +20,7 @@ source_tables:
   - papyrus-delivery-data.habicredit.wbr_liquidez
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Moneda COP. Desde 2026-08-01, para el Gerente Comercial y el Director non ibuyer paga
   por tramos fijos (RN-CO-011). Para el Gerente Comercial el indicador era NULL antes de

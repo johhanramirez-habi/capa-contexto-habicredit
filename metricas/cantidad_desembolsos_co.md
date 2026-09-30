@@ -20,7 +20,7 @@ source_tables:
   - papyrus-delivery-data.habicredit.wbr_liquidez
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: "Unidad: operaciones. p_ejecucion = promedio de p(cantidad) y p(monto) (RN-CO-004)."
 ```
 

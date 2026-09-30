@@ -17,7 +17,7 @@ sql_reference: |
 exceptions: "un ajuste que reproduzca el valor viejo bit a bit, verificado con una consulta de solo lectura"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: CLAUDE.md:46-60,85-90
 ```
 

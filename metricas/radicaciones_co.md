@@ -23,7 +23,7 @@ source_tables:
   - papyrus-delivery-data.habicredit.wbr_liquidez
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Unidad: operaciones. Paga en pareja con radicacion_monto_co: solo paga la de mayor
   cumplimiento (RN-CO-003). Sin techo (RN-CO-008). Para directores, la meta de únicas se carga

@@ -16,7 +16,7 @@ sql_reference: |
 exceptions: "sin evidencia en el material fuente"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: visor_vista.sql:6-7; sql/validaciones/conciliacion.sql (conciliación motor vs finanzas)
 ```
 

@@ -29,7 +29,7 @@ relationships:
 business_rules_ref: ["RN-MX-002", "RN-MX-007", "RN-MX-008", "RN-MX-020"]
 owner: "sin evidencia en el material fuente (docs/reglas.md:12: 'esquemas aprobados por finanzas')"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: config/reglas.yaml:149-226; docs/reglas.md:10-27,405-482
 ```
 

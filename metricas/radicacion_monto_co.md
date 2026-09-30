@@ -21,7 +21,7 @@ source_tables:
   - papyrus-delivery-data.habicredit.wbr_liquidez
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Moneda COP. La meta se carga como radicaciones × 200.000.000 (ticket promedio de $200MM;
   convenciones.md:22-23). Paga en pareja con radicaciones_co (RN-CO-003).

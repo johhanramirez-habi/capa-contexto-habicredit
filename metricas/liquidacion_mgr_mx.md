@@ -23,7 +23,7 @@ source_tables:
   - "derivada del registro de anticipos (data/clean/anticipos.csv) y conteo_equipo_aceptaciones_mx"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 known_caveats: >
   Moneda MXN. El tramo no se recalcula al escriturar (evita pagar de más a un negocio
   anticipado con un tramo menor). Valores observados (bruto / anticipo / neto):

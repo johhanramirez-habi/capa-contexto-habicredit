@@ -18,7 +18,7 @@ sql_reference: |
 exceptions: "AO excluido"
 owner: "sin evidencia en el material fuente (lo ratificó el 'responsable del cálculo', docs/reglas.md:334)"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: docs/reglas.md:330-335; src/comisiones/motor.py:133
 ```
 

@@ -21,7 +21,7 @@ source_tables:
   - papyrus-delivery-data.habicredit_mx.stg_pfy_habicredit_mx_bancario_comisiones
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 known_caveats: >
   Valores observados en outputs: entre 12 (2024-09) y 29 (2026-04). Filtrar a quienes
   salieron antes de contar subcuenta al equipo y puede dejar a todos en 0%

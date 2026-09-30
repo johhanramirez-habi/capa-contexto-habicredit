@@ -21,7 +21,7 @@ source_tables:
   - "derivada de conteo_individual_aceptaciones_mx y conteo_equipo_aceptaciones_mx"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 known_caveats: >
   El documento de julio 2026 publica 0,2% / 0,25% "pagaderas 50% al EF y 50% al AO".
   Eso equivale a 0,1% / 0,125% por rol: el cambio es de redacción, no de dinero

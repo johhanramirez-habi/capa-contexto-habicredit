@@ -31,7 +31,7 @@ sql_reference: |
 exceptions: "antes de 2026-08-01, Gerente Comercial y Director non ibuyer caen a la banda genérica; un director non ibuyer que no esté en ninguna lista recibe NULL (el CASE no tiene ELSE)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: comisiones_internas_hc_final.sql:336-369,419-445; Esquemas/202608
 ```
 

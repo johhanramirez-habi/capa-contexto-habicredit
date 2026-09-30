@@ -22,7 +22,7 @@ relationships:
 business_rules_ref: []
 owner: "sin evidencia en el material fuente (la asignación la entrega el área de Legalización, comisiones_internas_hc.sql:65)"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: sql/comisiones_co/comisiones_internas_hc.sql:53-149
 ```
 

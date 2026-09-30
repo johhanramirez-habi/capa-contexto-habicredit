@@ -22,7 +22,7 @@ source_tables:
   - papyrus-master.operations_habi_mx_buyers.funnel_buyers_mx
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 known_caveats: >
   Moneda MXN. No está implementado: en el reporte, la sección de brokerage sale vacía.
   Entre 2023-12-12 y 2024-03-31 no hay esquema documentado.

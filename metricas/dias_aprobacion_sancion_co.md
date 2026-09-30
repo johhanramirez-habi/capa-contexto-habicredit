@@ -19,7 +19,7 @@ source_tables:
   - "main_board_radicacion (derivada de papyrus-delivery-data.habicredit.main_board)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Unidad: días. Meta de 6 días hábiles (7 en convenios). El cumplimiento es invertido,
   meta/ejecución (RN-CO-005). Desde 2026-07-01, los supervisores y analistas de radicación

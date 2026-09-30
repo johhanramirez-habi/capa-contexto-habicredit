@@ -16,7 +16,7 @@ sql_reference: |
 exceptions: "hoy inactivo: esas posiciones salieron del UNPIVOT en 2026"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 ```
 
 ## Notas

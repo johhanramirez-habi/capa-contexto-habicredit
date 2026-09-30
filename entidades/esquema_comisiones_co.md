@@ -25,7 +25,7 @@ relationships:
 business_rules_ref: ["RN-CO-007", "RN-CO-014", "RN-CO-018", "RN-CO-019"]
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: CLAUDE.md:16-23; Esquemas/202607 y 202608 (PDF)
 ```
 

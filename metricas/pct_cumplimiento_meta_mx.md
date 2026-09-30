@@ -19,7 +19,7 @@ source_tables:
   - "metas.csv (colaborador_id, mes, meta_aceptaciones) — no existe en la carpeta"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 known_caveats: >
   No es ejecutable: resolver_esquema exige 'individual_cero' (parametros.py:43), así que
   cualquier mes de 2023 lanza EsquemaNoVigente, y no hay datos de metas. Ver

@@ -19,7 +19,7 @@ source_tables:
   - papyrus-delivery-data.habicredit.main_board
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app); Habicredit_2024.docx (fuentes/documentos; desactualizado - por validar)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3); Habicredit_2024.docx (fuentes/documentos; desactualizado - por validar)"
 known_caveats: >
   Unidad/moneda: operaciones y COP. Paga en pareja: solo la de mayor cumplimiento
   (RN-CO-003). Sin techo (RN-CO-008). Desde 2026-08-01, un traslado de banco cuenta como

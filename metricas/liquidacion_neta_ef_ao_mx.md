@@ -21,7 +21,7 @@ source_tables:
   - "derivada de comision_bruta_ef_ao_mx y del registro de anticipos (data/clean/anticipos.csv)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 known_caveats: >
   Moneda MXN. Modelo "adelanto_puro" (reglas.yaml:97; confirmado en docs/reglas.md:633).
   Contradicción: reglas.yaml:84 (permitir_pago_negativo: false) y docs/reglas.md:399 dicen

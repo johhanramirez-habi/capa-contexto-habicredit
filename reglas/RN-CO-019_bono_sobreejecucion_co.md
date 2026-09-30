@@ -20,7 +20,7 @@ sql_reference: |
 exceptions: "máximo un bono por periodo"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: Esquemas/202608 (PDF, ~1343-1398), vigente desde abril 2026 según el PDF
 ```
 

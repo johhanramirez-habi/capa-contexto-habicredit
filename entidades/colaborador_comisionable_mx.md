@@ -30,7 +30,7 @@ relationships:
 business_rules_ref: ["RN-MX-007", "RN-MX-008", "RN-MX-009", "RN-MX-012", "RN-MX-013"]
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: docs/reglas.md:37-45; docs/fuentes.md:183-205; src/comisiones/normalizar.py:36-49,184,274,287-288; src/comisiones/__main__.py:57-77
 ```
 

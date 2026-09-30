@@ -23,7 +23,7 @@ relationships:
 business_rules_ref: ["RN-CO-021"]
 owner: "sin evidencia en el material fuente (visor_vista.sql:6 la atribuye a auditoría/Finanzas)"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: sql/comisiones_co/visor_vista.sql:6-7,28-32; sql/validaciones/conciliacion.sql:4-5,24; apps_script/README.md:29; agent.md:7
 ```
 

@@ -19,7 +19,7 @@ source_tables:
   - "derivada de conteo_equipo_aceptaciones_mx"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 known_caveats: >
   Moneda MXN. Valores observados: 150 (equipo de 9 a 16) y 300 (17 o más). El tope de
   25.000 del Manager no se aplica a los anticipos. Totales de control en los tests:

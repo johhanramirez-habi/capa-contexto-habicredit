@@ -22,7 +22,7 @@ source_tables:
   - papyrus-delivery-data.habicredit.nuevos_brokers_meta_comsiones
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Unidad: % (meta_value = 1). El Gerente Comercial mantiene la fórmula de dos indicadores
   (PDF de agosto: "30 brokers nuevos y 20 brokers radicando mínimo 2 operaciones"). El

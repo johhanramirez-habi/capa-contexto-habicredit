@@ -22,7 +22,7 @@ source_tables:
   - papyrus-delivery-data.habicredit.metas_comisiones_internas
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Es una variante de pct_cumplimiento_meta_mx.md, pero la lógica es distinta (por
   indicador, con inversiones y binarios). Un NULL en p_ejecucion puede ser intencional

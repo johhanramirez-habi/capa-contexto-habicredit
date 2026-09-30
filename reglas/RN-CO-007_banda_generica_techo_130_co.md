@@ -20,7 +20,7 @@ sql_reference: |
 exceptions: "indicadores sin techo (RN-CO-008), analistas de radicación con techo de 150% (RN-CO-009), Supervisor Legalización con piso de 50% (RN-CO-010), tramos fijos por desembolso (RN-CO-011), directores nuevos (RN-CO-012), bonos KAM (RN-CO-013)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: coincide con la tabla del PDF Esquemas/202608 (~líneas 39-44)
 ```
 

@@ -19,7 +19,7 @@ source_tables:
   - papyrus-delivery-data.habicredit.metas_comisiones_internas
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Moneda COP. La validación de metas marca como hallazgo base_commission < 1.000.000
   (validacion_metas.sql), pero muchas bases legítimas están entre 100.000 y 900.000. El

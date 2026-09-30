@@ -19,7 +19,7 @@ source_tables:
   - "tablas de rotación de legalización (histórica y actual; proyecto/dataset no especificado en el extracto)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Unidad: %. Metas: 0,75 para el analista y 0,7 para el supervisor. En agosto 2026 se quitó
   la semana del 2026-08-03 "por falta de confianza en los datos"; hay que revisar

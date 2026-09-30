@@ -18,7 +18,7 @@ source_tables:
   - "ordenes_escrituracion (proyecto/dataset no especificado en el extracto)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Unidad: eventos. Antes de 2026-08 se usaba una versión legacy en la que se perdían
   analistas sin orden de escrituración. Julio y agosto 2026 tienen ajustes manuales de la

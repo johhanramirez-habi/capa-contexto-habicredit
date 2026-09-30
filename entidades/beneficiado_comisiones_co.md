@@ -27,7 +27,7 @@ relationships:
 business_rules_ref: ["RN-CO-001", "RN-CO-016"]
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: .claude/skills/extraccion-metas/SKILL.md:106-109; Guia_App_Confirmacion_Comisiones.md:37; sql/validaciones/barrido_cambios_mes.sql:29; visor_vista.sql:50
 ```
 

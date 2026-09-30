@@ -21,7 +21,7 @@ source_tables:
   - papyrus-delivery-data.habicredit.main_board
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Unidad: %. Metas observadas: 0,5 para directores y 0,7 para iBuyer. La meta varía entre
   fuentes: el PDF de agosto dice 50%, la descripción del Sheet dice 60% con meta 0,5 y un

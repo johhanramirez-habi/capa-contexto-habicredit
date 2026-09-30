@@ -19,7 +19,7 @@ source_tables:
   - papyrus-delivery-data.habicredit.visor_comisiones
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: "Moneda COP. Es una métrica de presentación (visor), no de pago."
 ```
 

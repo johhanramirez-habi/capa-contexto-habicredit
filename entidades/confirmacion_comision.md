@@ -28,7 +28,7 @@ relationships:
 business_rules_ref: ["RN-CO-020"]
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: sql/create_comisiones_confirmaciones.sql:7-21; config.py:54; services/data_service.py:215-251
 ```
 

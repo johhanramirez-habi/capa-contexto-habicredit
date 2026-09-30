@@ -21,7 +21,7 @@ sql_reference: |
 exceptions: "no se cargan vacantes, tablas de rango de cumplimiento, bonos por sobreejecución, concursos (plan carrera/Rocket) ni penalizaciones transversales (CSAT)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: .claude/skills/extraccion-metas/SKILL.md:104-129; convenciones.md:47-54
 ```
 

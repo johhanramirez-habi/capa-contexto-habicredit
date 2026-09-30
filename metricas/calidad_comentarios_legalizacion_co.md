@@ -19,7 +19,7 @@ source_tables:
   - "score_comentarios_calidad_legalizacion (proyecto/dataset no especificado en el extracto)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Unidad: índice (meta siempre 1). La opción A (score > 8 y comentarios > 80) se calcula
   pero no se usa. El diccionario (DIC:11-12) la describe como "calificación mínima

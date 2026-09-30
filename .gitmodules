@@ -1,3 +1,13 @@
 [submodule "fuentes/docs-wbr-reportes"]
 	path = fuentes/docs-wbr-reportes
 	url = https://github.com/HabiGlobal/docs-wbr-reportes.git
+[submodule "fuentes/comisiones_HC-MX"]
+	path = fuentes/comisiones_HC-MX
+	url = https://github.com/johhanramirez-habi/comisiones-mx.git
+[submodule "fuentes/comisiones_HC-app"]
+	path = fuentes/comisiones_HC-app
+	url = https://github.com/johhanramirez-habi/comisiones_HC-app.git
+[submodule "fuentes/bt_prelegelizacion_gold"]
+	path = fuentes/bt_prelegelizacion_gold
+	url = https://github.com/HabiGlobal/dbt-cloud-habi-dlh.git
+	branch = feature/pre-legalizacion-habicredit-medallon

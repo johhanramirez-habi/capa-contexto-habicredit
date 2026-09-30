@@ -19,7 +19,7 @@ source_tables:
   - "ar_ci_co, ar_pcv_co, ar_escritura_co (proyecto/dataset no especificado en el extracto)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: "Unidad: %. No se mide por persona. El PDF cita como fuente el 'Tablero Attachment Rate OCD'."
 ```
 

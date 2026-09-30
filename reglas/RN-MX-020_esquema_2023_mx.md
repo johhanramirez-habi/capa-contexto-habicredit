@@ -16,7 +16,7 @@ sql_reference: |
 exceptions: "vigente solo para aceptaciones del 2023-01-01 al 2023-12-31"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: docs/reglas.md:405-451
 ```
 

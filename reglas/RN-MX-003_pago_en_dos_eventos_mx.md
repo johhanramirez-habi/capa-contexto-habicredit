@@ -16,7 +16,7 @@ sql_reference: |
 exceptions: "el AO no tiene anticipo (RN-MX-004); escrituración nula = solo anticipo"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: CLAUDE.md:24-28; docs/reglas.md:97-104,365-378; src/comisiones/__main__.py:158-165
 ```
 

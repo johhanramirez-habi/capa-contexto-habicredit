@@ -16,7 +16,7 @@ sql_reference: |
 exceptions: "esquema 2023 definido pero no ejecutable en código (ver RN-MX-020)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: config/reglas.yaml:5-7; CLAUDE.md:16-22
 ```
 

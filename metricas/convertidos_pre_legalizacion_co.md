@@ -19,7 +19,7 @@ source_tables:
   - "bt_pre_legalizacion_bi_new (proyecto/dataset no especificado en el extracto)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Unidad: negocios. El conteo baja al re-correr porque la base de salidas/backlog se
   reduce día a día; por eso hay valores fijados a mano (agosto 2026 = 1.001, contra 970 del

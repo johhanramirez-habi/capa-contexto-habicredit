@@ -43,7 +43,7 @@ relationships:
 business_rules_ref: ["RN-CO-001", "RN-CO-002", "RN-CO-003", "RN-CO-004", "RN-CO-005", "RN-CO-006", "RN-CO-007", "RN-CO-008", "RN-CO-009", "RN-CO-010", "RN-CO-021", "RN-CO-022"]
 owner: "sin evidencia en el material fuente (agent.md:7: BI Liquidez la calcula desde marzo 2025; el traslado a Finanzas es manual)"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: CLAUDE.md:3-17; sql/comisiones_co/README.md:24-37; sql/comisiones_co/comisiones_internas_hc.sql:1-4; comisiones_internas_hc_final.sql
 ```
 

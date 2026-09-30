@@ -25,7 +25,7 @@ relationships:
 business_rules_ref: ["RN-MX-014"]
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: CLAUDE.md:87-93; src/comisiones/normalizar.py:314-341; data/clean/overrides.csv (encabezado)
 ```
 

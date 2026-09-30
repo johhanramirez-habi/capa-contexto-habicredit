@@ -18,7 +18,7 @@ sql_reference: |
 exceptions: "no se aplica a los anticipos ni al Manager en el código; ¿el Manager cobra sobre negocios de quien salió? = sin definir (reglas.yaml:112)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: config/reglas.yaml:99-116; docs/reglas.md:50-93; CLAUDE.md:75-80; tests/golden/test_meses_cerrados.py:146-156
 ```
 

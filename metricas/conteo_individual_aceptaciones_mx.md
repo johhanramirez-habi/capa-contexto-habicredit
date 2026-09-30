@@ -23,7 +23,7 @@ source_tables:
   - papyrus-delivery-data.habicredit_mx.stg_pfy_habicredit_mx_bancario_comisiones
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 known_caveats: >
   Unidad: negocios (no monto). Cada rol usa su propio conteo individual (lectura B,
   confirmada en 7 de 8 negocios discriminantes may-jul 2026). La regla de "inmueble

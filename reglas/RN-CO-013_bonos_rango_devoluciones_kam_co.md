@@ -20,7 +20,7 @@ sql_reference: |
 exceptions: "por encima del rango máximo, o en los huecos entre bandas (p. ej. 0,04995), el pago es NULL"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 ```
 
 ## Notas

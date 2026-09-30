@@ -29,7 +29,7 @@ relationships:
 business_rules_ref: ["RN-CO-003", "RN-CO-004", "RN-CO-005", "RN-CO-006"]
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 # evidencia: data/diccionario_indicadores_comisiones_co.csv; README.md:100-106; sql/validaciones/validacion_metas.sql:31; diff_indicadores.sql:16
 ```
 

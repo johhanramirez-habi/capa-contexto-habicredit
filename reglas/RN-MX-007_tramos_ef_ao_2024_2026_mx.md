@@ -20,7 +20,7 @@ sql_reference: |
 exceptions: "referidor del negocio → 1% (RN-MX-012)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: config/reglas.yaml:196-216; docs/reglas.md:219-244; src/comisiones/motor.py:25-37
 ```
 

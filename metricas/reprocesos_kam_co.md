@@ -20,7 +20,7 @@ source_tables:
   - "main_board_integrado, bt_pre_legalizacion_bi_new (proyecto/dataset no especificado en el extracto)"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3)"
 known_caveats: >
   Metas: 120 reprocesos y 60 aprobaciones. reprocesos_kam y reprocesos_monto pagan en
   pareja: solo la de mayor cumplimiento (RN-CO-003). Sin techo (RN-CO-008). aprobaciones_kam

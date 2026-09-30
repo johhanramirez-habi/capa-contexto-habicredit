@@ -31,7 +31,7 @@ relationships:
 business_rules_ref: []
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-app); Habicredit_2024.docx (fuentes/documentos; desactualizado - por validar)"
+source_project: "comisiones (fuentes/comisiones_HC-app, commit 838b8e3); Habicredit_2024.docx (fuentes/documentos; desactualizado - por validar)"
 # evidencia: sql/comisiones_co/comisiones_internas_hc.sql:1014-1058,1586-1657
 ```
 

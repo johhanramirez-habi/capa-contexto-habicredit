@@ -19,7 +19,7 @@ source_tables:
   - "data/clean/referidos.csv"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 known_caveats: >
   Moneda MXN. Si el referido se declara después de la aceptación, el anticipo sale al
   tramo normal y la diferencia se salda al escriturar. El referido de rol MGR (1 fila) no

@@ -24,7 +24,7 @@ relationships:
 business_rules_ref: ["RN-MX-018"]
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: docs/reglas.md:42,493-510; config/reglas.yaml:230-255; sql/escrituracion_mes.plain.sql:4-10
 ```
 

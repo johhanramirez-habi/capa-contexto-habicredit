@@ -16,7 +16,7 @@ sql_reference: |
 exceptions: "sin evidencia en el material fuente"
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: CLAUDE.md:67-69; docs/fuentes.md:34-49
 ```
 

@@ -16,7 +16,7 @@ sql_reference: |
 exceptions: "las observaciones no se procesan en cada cálculo; se migraron una sola vez a overrides/referidos (normalizar.py:344-359)"
 owner: "sin evidencia en el material fuente (confirmada por el 'responsable del cálculo')"
 last_reviewed: "2026-09-30"
-source_project: "comisiones (fuentes/comisiones_HC-MX)"
+source_project: "comisiones (fuentes/comisiones_HC-MX, commit bda83ce)"
 # evidencia: docs/fuentes.md:196-202; CLAUDE.md:87-93; src/comisiones/normalizar.py:314-341
 ```
 
