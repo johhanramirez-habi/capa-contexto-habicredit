@@ -19,18 +19,21 @@
 | entidad | [Excepción de comisiones MX](entidades/excepcion_comisiones_mx.md) | comisiones (MX) | 2026-09-30 |
 | entidad | [Indicador de comisiones CO](entidades/indicador_comisiones_co.md) | comisiones (CO) | 2026-09-30 |
 | entidad | [Meta de comisiones CO](entidades/meta_comisiones_co.md) | comisiones (CO) | 2026-09-30 |
+| entidad | [Meta WBR por país](entidades/meta_wbr_pais.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | entidad | [Negocio HabiCredit MX](entidades/negocio_hc_mx.md) | comisiones (MX) | 2026-09-30 |
 | entidad | [Operación de crédito CO](entidades/operacion_credito_co.md) | comisiones (CO) | 2026-09-30 |
 | entidad | [Posición comisionable CO](entidades/posicion_comisionable_co.md) | comisiones (CO) | 2026-09-30 |
 | entidad | [Referido interno MX](entidades/referido_interno_mx.md) | comisiones (MX) | 2026-09-30 |
+| entidad | [Serie diaria WBR Liquidez CO](entidades/serie_diaria_wbr_liquidez_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | métrica | [Anticipo EF MX](metricas/anticipo_ef_mx.md) | comisiones (MX) | 2026-09-30 |
 | métrica | [Anticipo Manager MX](metricas/anticipo_mgr_mx.md) | comisiones (MX) | 2026-09-30 |
 | métrica | [Aprobación dual CO](metricas/aprobacion_dual_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Attachment rate CO](metricas/attachment_rate_co.md) | comisiones (CO) | 2026-09-30 |
+| métrica | [Backlog legalización non ibuyer CO](metricas/backlog_legalizacion_non_ibuyer_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | métrica | [Base comisionable CO](metricas/base_comisionable_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Cantidad y calidad de comentarios CO](metricas/calidad_comentarios_legalizacion_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Calidad KAM CO](metricas/calidad_kam_co.md) | comisiones (CO) | 2026-09-30 |
-| métrica | [Cantidad de desembolsos CO](metricas/cantidad_desembolsos_co.md) | comisiones (CO) | 2026-09-30 |
+| métrica | [Cantidad de desembolsos CO](metricas/cantidad_desembolsos_co.md) | comisiones (CO); docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | métrica | [Comisión broker MX](metricas/comision_broker_mx.md) | comisiones (MX) | 2026-09-30 |
 | métrica | [Comisión bruta EF/AO MX](metricas/comision_bruta_ef_ao_mx.md) | comisiones (MX) | 2026-09-30 |
 | métrica | [Comisión Directa y buyers MX](metricas/comision_directa_buyers_mx.md) | comisiones (MX) | 2026-09-30 |
@@ -40,41 +43,24 @@
 | métrica | [Conteo individual de aceptaciones con inmueble MX](metricas/conteo_individual_aceptaciones_mx.md) | comisiones (MX) | 2026-09-30 |
 | métrica | [Convertidos de pre-legalización CO](metricas/convertidos_pre_legalizacion_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Cumplimiento ANS legalización CO](metricas/cumplimiento_ans_legalizacion_co.md) | comisiones (CO) | 2026-09-30 |
+| métrica | [Cumplimiento de meta WBR Liquidez CO](metricas/cumplimiento_meta_wbr_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | métrica | [Cumplimiento de rotación CO](metricas/cumplimiento_rotacion_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Días de aprobación/sanción CO](metricas/dias_aprobacion_sancion_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Órdenes, ofertas y escrituras CO](metricas/firma_ordenes_ofertas_escrituras_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Liquidación Manager MX](metricas/liquidacion_mgr_mx.md) | comisiones (MX) | 2026-09-30 |
 | métrica | [Liquidación neta EF/AO MX](metricas/liquidacion_neta_ef_ao_mx.md) | comisiones (MX) | 2026-09-30 |
-| métrica | [Monto desembolsado CO](metricas/monto_desembolso_co.md) | comisiones (CO) | 2026-09-30 |
+| métrica | [Monto desembolsado CO](metricas/monto_desembolso_co.md) | comisiones (CO); docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | métrica | [Brokers nuevos CO](metricas/nuevos_brokers_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [Pago de comisión CO](metricas/pago_comision_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [% de comisión EF/AO MX](metricas/pct_comision_ef_ao_mx.md) | comisiones (MX) | 2026-09-30 |
 | métrica | [% cumplimiento de indicador CO](metricas/pct_cumplimiento_indicador_co.md) | comisiones (CO) | 2026-09-30 |
 | métrica | [% cumplimiento de meta MX (esquema 2023)](metricas/pct_cumplimiento_meta_mx.md) | comisiones (MX) | 2026-09-30 |
-| métrica | [Monto radicado CO](metricas/radicacion_monto_co.md) | comisiones (CO) | 2026-09-30 |
-| métrica | [Radicaciones CO](metricas/radicaciones_co.md) | comisiones (CO) | 2026-09-30 |
+| métrica | [Monto radicado CO](metricas/radicacion_monto_co.md) | comisiones (CO); docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
+| métrica | [Radicaciones CO](metricas/radicaciones_co.md) | comisiones (CO); docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | métrica | [Reprocesos KAM CO](metricas/reprocesos_kam_co.md) | comisiones (CO) | 2026-09-30 |
+| métrica | [Rotación Legalización non ibuyer CO](metricas/rotacion_legalizacion_non_ibuyer_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | métrica | [Salvamentos CO](metricas/salvamentos_reproceso_creditos_co.md) | comisiones (CO) | 2026-09-30 |
-| regla | [RN-MX-001 card_id como llave universal](reglas/RN-MX-001_llave_card_id_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-002 Esquema vigente según fecha de aceptación](reglas/RN-MX-002_esquema_por_fecha_aceptacion_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-003 Pago en dos eventos](reglas/RN-MX-003_pago_en_dos_eventos_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-004 Anticipo del 30% solo EF y Manager](reglas/RN-MX-004_anticipo_30_solo_ef_mgr_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-005 Resolución del mes de aceptación](reglas/RN-MX-005_resolucion_mes_aceptacion_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-006 Inmueble definido para contar en la meta](reglas/RN-MX-006_inmueble_definido_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-007 Tramos de % EF/AO con doble condición](reglas/RN-MX-007_tramos_ef_ao_2024_2026_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-008 Monto por aprobación del Manager con tope](reglas/RN-MX-008_manager_por_aprobacion_y_tope_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-009 Colaborador con fecha de salida](reglas/RN-MX-009_colaborador_que_salio_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-010 Base del anticipo](reglas/RN-MX-010_base_del_anticipo_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-011 Neteo de anticipos (adelanto puro)](reglas/RN-MX-011_neteo_de_anticipos_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-012 Referido interno al 1%](reglas/RN-MX-012_referido_interno_1pct_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-013 Requisitos para liquidar](reglas/RN-MX-013_requisitos_para_liquidar_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-014 Jerarquía de autoridad del dato](reglas/RN-MX-014_jerarquia_autoridad_dato_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-015 Redondeo](reglas/RN-MX-015_redondeo_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-016 Día de pago](reglas/RN-MX-016_dia_de_pago_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-017 Descomisión por cancelación o desistimiento](reglas/RN-MX-017_cancelacion_desistimiento_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-018 Condiciones de pago a brokers](reglas/RN-MX-018_pago_brokers_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-019 Inmutabilidad del registro histórico de anticipos](reglas/RN-MX-019_registro_anticipos_historico_mx.md) | comisiones (MX) | 2026-09-30 |
-| regla | [RN-MX-020 Esquema 2023](reglas/RN-MX-020_esquema_2023_mx.md) | comisiones (MX) | 2026-09-30 |
+| métrica | [Variación WoW / MoM WBR Liquidez CO](metricas/variacion_wow_mom_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
 | regla | [RN-CO-001 Sin meta no hay pago](reglas/RN-CO-001_sin_meta_no_hay_pago_co.md) | comisiones (CO) | 2026-09-30 |
 | regla | [RN-CO-002 Versionado de cambios por fecha de vigencia](reglas/RN-CO-002_versionado_por_fecha_co.md) | comisiones (CO) | 2026-09-30 |
 | regla | [RN-CO-003 Pareja unidades/monto paga la mayor](reglas/RN-CO-003_parejas_unidades_monto_co.md) | comisiones (CO) | 2026-09-30 |
@@ -97,3 +83,28 @@
 | regla | [RN-CO-020 Confirmación de comisión](reglas/RN-CO-020_confirmacion_comision_co.md) | comisiones (CO) | 2026-09-30 |
 | regla | [RN-CO-021 Prevalencia de la base auditada](reglas/RN-CO-021_prevalencia_base_auditada_co.md) | comisiones (CO) | 2026-09-30 |
 | regla | [RN-CO-022 Ajustes manuales (quemas y UNION ALL)](reglas/RN-CO-022_ajustes_manuales_co.md) | comisiones (CO) | 2026-09-30 |
+| regla | [RN-CO-023 MTD recortado al mismo día](reglas/RN-CO-023_mtd_recortado_mismo_dia_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
+| regla | [RN-CO-024 Agregación de flujos y stocks](reglas/RN-CO-024_flujo_vs_stock_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
+| regla | [RN-CO-025 Meta del mes corrido con curva estacional](reglas/RN-CO-025_meta_mes_corrido_curva_estacional_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
+| regla | [RN-CO-026 Cumplimiento WBR: flujos contra meta corrida, rotación invertida](reglas/RN-CO-026_cumplimiento_wbr_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
+| regla | [RN-CO-027 Paridad contra la misma foto](reglas/RN-CO-027_paridad_misma_foto_co.md) | docs-wbr-reportes/liquidez (CO) | 2026-09-30 |
+| regla | [RN-MX-001 card_id como llave universal](reglas/RN-MX-001_llave_card_id_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-002 Esquema vigente según fecha de aceptación](reglas/RN-MX-002_esquema_por_fecha_aceptacion_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-003 Pago en dos eventos](reglas/RN-MX-003_pago_en_dos_eventos_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-004 Anticipo del 30% solo EF y Manager](reglas/RN-MX-004_anticipo_30_solo_ef_mgr_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-005 Resolución del mes de aceptación](reglas/RN-MX-005_resolucion_mes_aceptacion_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-006 Inmueble definido para contar en la meta](reglas/RN-MX-006_inmueble_definido_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-007 Tramos de % EF/AO con doble condición](reglas/RN-MX-007_tramos_ef_ao_2024_2026_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-008 Monto por aprobación del Manager con tope](reglas/RN-MX-008_manager_por_aprobacion_y_tope_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-009 Colaborador con fecha de salida](reglas/RN-MX-009_colaborador_que_salio_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-010 Base del anticipo](reglas/RN-MX-010_base_del_anticipo_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-011 Neteo de anticipos (adelanto puro)](reglas/RN-MX-011_neteo_de_anticipos_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-012 Referido interno al 1%](reglas/RN-MX-012_referido_interno_1pct_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-013 Requisitos para liquidar](reglas/RN-MX-013_requisitos_para_liquidar_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-014 Jerarquía de autoridad del dato](reglas/RN-MX-014_jerarquia_autoridad_dato_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-015 Redondeo](reglas/RN-MX-015_redondeo_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-016 Día de pago](reglas/RN-MX-016_dia_de_pago_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-017 Descomisión por cancelación o desistimiento](reglas/RN-MX-017_cancelacion_desistimiento_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-018 Condiciones de pago a brokers](reglas/RN-MX-018_pago_brokers_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-019 Inmutabilidad del registro histórico de anticipos](reglas/RN-MX-019_registro_anticipos_historico_mx.md) | comisiones (MX) | 2026-09-30 |
+| regla | [RN-MX-020 Esquema 2023](reglas/RN-MX-020_esquema_2023_mx.md) | comisiones (MX) | 2026-09-30 |

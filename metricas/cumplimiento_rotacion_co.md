@@ -27,5 +27,9 @@ known_caveats: >
   mediados y a final de mes.
 ```
 
+## Relación con el WBR de Liquidez CO
+- **No es la misma métrica que la rotación del WBR.** Esta mide salidas contra el objetivo semanal (un %, más es mejor). La del WBR, [rotacion_legalizacion_non_ibuyer_co.md](rotacion_legalizacion_non_ibuyer_co.md), mide días de rotación del backlog non ibuyer, donde menos es mejor y la meta es un techo de 70 días. Comparten el nombre "rotación", pero la definición es distinta.
+
 ## Historial
 - 2026-09-30: creación inicial (extracción piloto del proyecto comisiones).
+- 2026-09-30: enriquecida con el WBR de Liquidez CO (docs-wbr-reportes/liquidez (fuentes/docs-wbr-reportes, commit a2f98cc)).

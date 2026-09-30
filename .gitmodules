@@ -1,0 +1,3 @@
+[submodule "fuentes/docs-wbr-reportes"]
+	path = fuentes/docs-wbr-reportes
+	url = https://github.com/HabiGlobal/docs-wbr-reportes.git

@@ -17,6 +17,7 @@ grain: "mes_comision × beneficiado"
 filters_exclusions: "la variante iBuyer usa desembolsos_ibuyer_hc.valor_credito_1; la de convenios filtra por correo_broker del ejecutivo"
 source_tables:
   - papyrus-delivery-data.habicredit.main_board
+  - papyrus-delivery-data.habicredit.wbr_liquidez
 owner: "sin evidencia en el material fuente"
 last_reviewed: "2026-09-30"
 source_project: "comisiones (fuentes/comisiones_HC-app)"
@@ -28,5 +29,10 @@ known_caveats: >
   (RN-CO-004). Sin techo en COLEX (RN-CO-008).
 ```
 
+## Uso en el WBR de Liquidez CO
+- En el WBR es la serie `monto_desembolsos` del indicador "Desembolsos HC Bancario": una línea sobre las barras de conteo, en miles de millones de COP. Es un flujo (suma diaria).
+- Los KPI del indicador (WoW, MoM, meta, cumplimiento) se calculan sobre el conteo, no sobre el monto.
+
 ## Historial
 - 2026-09-30: creación inicial (extracción piloto del proyecto comisiones).
+- 2026-09-30: enriquecida con el WBR de Liquidez CO (docs-wbr-reportes/liquidez (fuentes/docs-wbr-reportes, commit a2f98cc)).
