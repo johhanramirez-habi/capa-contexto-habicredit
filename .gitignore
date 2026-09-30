@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Temporales / editores
+*.tmp
+*.swp
+*~
+.~lock.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Material crudo de proyectos (copias; varias tienen su propio .git)
+fuentes/
