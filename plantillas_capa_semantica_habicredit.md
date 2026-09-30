@@ -5,7 +5,9 @@ Estas tres plantillas cubren los tres tipos de conocimiento que normalmente est�
 Convención de nombres de archivo sugerida:
 - `entidades/broker.md`
 - `metricas/pct_devoluciones.md`
-- `reglas/anti_join_desistidos.md`
+- `reglas/RN-CO-001_anti_join_desistidos_co.md` (el nombre empieza con el `rule_id`)
+
+IDs de reglas por país: `RN-CO-###` para Colombia y `RN-MX-###` para México. La numeración de cada país es independiente y consecutiva: una regla nueva toma el siguiente número libre de su país. Todos los proyectos son de Colombia excepto las comisiones de México (`comisiones_HC-MX`).
 
 ---
 
@@ -65,7 +67,7 @@ known_caveats: ""          # ej. "volatilidad por pipeline lag, discutido con CE
 ## 3. Plantilla de Regla de Negocio / Lógica
 
 ```yaml
-rule_id: ""                # identificador único, ej. "RN-001"
+rule_id: ""                # identificador único con país, ej. "RN-CO-001" o "RN-MX-001"
 name: ""                   # nombre corto, ej. "Anti-join de desistidos"
 domain: ""
 market: []                 # países/mercados donde aplica, ej. ["CO"], ["MX"], ["CO", "MX"]
