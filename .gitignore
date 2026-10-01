@@ -11,5 +11,11 @@
 __pycache__/
 *.pyc
 
-# Material crudo de proyectos (copias; varias tienen su propio .git)
-fuentes/
+# Configuración local de Claude Code en cada proyecto
+.claude/settings.local.json
+
+# fuentes/: los proyectos con repositorio propio son submódulos; las carpetas sin
+# repositorio se versionan aquí. Cada una respeta su propio .gitignore (p. ej.
+# devoluciones_radiacion excluye todos los datos de cliente).
+.venv/
+.env

@@ -14,11 +14,16 @@ Repositorio de contexto de negocio y capa semántica de HabiCredit. Consolida en
 capa-contexto-habicredit/
 ├── README.md               ← este archivo
 ├── plantillas_capa_semantica_habicredit.md
-├── _fuentes/                ← material crudo, uno por proyecto (staging)
-│   ├── comisiones/
-│   ├── devoluciones/
-│   ├── backlog/
-│   └── main_board/
+├── fuentes/                 ← material fuente, uno por proyecto
+│   ├── comisiones_HC-MX/              ← submódulo (comisiones-mx)
+│   ├── comisiones_HC-app/             ← submódulo (comisiones_HC-app)
+│   ├── bt_prelegelizacion_gold/       ← submódulo (HabiGlobal/dbt-cloud-habi-dlh)
+│   ├── docs-wbr-reportes/             ← submódulo (HabiGlobal/docs-wbr-reportes)
+│   ├── bt_pre_legalizacion/           ← carpeta sin repositorio propio
+│   ├── devoluciones_radiacion/        ← carpeta sin repositorio propio
+│   ├── migracion_reporte_bi/          ← carpeta sin repositorio propio
+│   ├── rotacion_radicacion_aprobacion/← carpeta sin repositorio propio
+│   └── documentos/                    ← documentos sueltos (ej. Habicredit_2024.docx)
 ├── entidades/               ← definiciones canónicas de entidades
 ├── metricas/                ← definiciones canónicas de métricas
 ├── reglas/                  ← reglas de negocio y lógica de excepciones
